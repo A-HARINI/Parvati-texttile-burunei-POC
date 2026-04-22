@@ -3,3 +3,4 @@ frontend/.env
 frontend/.env.local
 node_modules/
 dist/
+.cursor/
